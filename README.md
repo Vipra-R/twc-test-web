@@ -15,4 +15,8 @@ You may also see any lint errors in the console.
 e-mail - admin@gmail.com 
 password - admin123
 
+### `note`
+
+The database already contains 3 contacts so to see the initial welcome page you must delete them and login again
+
 
